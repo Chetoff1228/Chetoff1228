@@ -1,8 +1,8 @@
 # Chetvergov Andrey ✨
-## Data Scientist/ML Engineer 💻
+## ML Engineer 💻
 📧 cetvergovandrej9@gmail.com 🚀 [t.me/Chet1228](https://t.me/Chet1228) 🐙 [github.com/Chetoff1228](https://github.com/Chetoff1228)
 
-I'm Andrey, a skilled Data Scientist/ML Engineer based in Moscow. My expertise lies in NLP, CV, and ML, focusing on text generation, classification, image recognition, and object detection. I am proficient in SQL data analytics and Docker integration, bringing a blend of technical expertise and business acumen. With a proven track record in competitions and hackathons, I excel in delivering exceptional results. My analytical mindset, collaborative approach, and effective communication skills make me a valuable asset to any team.
+I'm Andrey, a skilled Data Scientist/ML Engineer based in Moscow. My expertise lies in NLP, CV, and ML, focusing on text generation, classification, image recognition, and object detection. I am proficient in SQL data analytics and Docker integration, bringing a blend of technical expertise and business acumen. With a proven track record in competitions and hackathons, I excel in delivering exceptional results.
 
 ## Skills
 ✨ **Deep Learning:** PyTorch, NLP, Language Models (e.g., GPT), CV, Key Point Detection, Image Matching Models, Face Recognition Models, YOLO8.
