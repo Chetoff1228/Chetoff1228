@@ -11,8 +11,7 @@ I have a proven track record of success in **hackathons**, **competitions**, and
 ---
 
 ## 🛠️ **Skills**  
-- **Deep Learning:** PyTorch, NLP, LLM Agents (Mistral, Llama, GPT), RAG, Vision-Language Models (VLMs), Key Point Detection, Image Matching, Face Recognition, YOLOv8.  
-- **Machine Learning:** Regression, Classification, CatBoost, PCA, Clustering, Feature Engineering, Model Evaluation.  
+- **Machine Learning:** PyTorch, NLP, LLM Agents (Mistral, Llama, GPT), RAG, Vision-Language Models (VLMs), Key Point Detection, Image Matching, Face Recognition, YOLOv8.  
 - **Programming:** Python, R, SQL, Lua.  
 - **Tools & Technologies:** Git, Docker, Linux, ML Space.  
 
