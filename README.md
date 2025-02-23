@@ -18,25 +18,6 @@ I have a proven track record of success in **hackathons**, **competitions**, and
 
 ---
 
-## 💼 **Professional Experience**  
-### **Eurochem**  
-**ML Engineer** (June 2024 - Present)  
-- Developing AI solutions for industrial applications.  
-- Optimizing workflows using ML and data-driven insights.  
-
-### **Research Center for Artificial Intelligence at RANEPA**  
-**ML Engineer** (December 2023 - Present)  
-- Building services powered by LLMs (e.g., correspondence routing).  
-- Implementing OCR for document workflow automation.  
-- Designing ML/DL training simulators for students.  
-
-### **Sber Robotics Laboratory**  
-**ML Engineer** (September 2023 - Present)  
-- Created specialized LLM agents for learning in virtual Lua environments.  
-- Fine-tuned language models and led prompt engineering initiatives.  
-
----
-
 ## 🏆 **Hackathons & Competitions**  
 - **1st Place – Digital Breakthrough (Цифровой прорыв) Vladivostok (DVO) 2024**  
 - **2nd Place – CheckAI Hack 2023**  
