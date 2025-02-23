@@ -1,34 +1,78 @@
-# Chetvergov Andrey ✨
-## ML Engineer 💻
-📧 cetvergovandrej9@gmail.com 🚀 [t.me/Chet1228](https://t.me/Chet1228) 🐙 [github.com/Chetoff1228](https://github.com/Chetoff1228) 🧠 [linkedin.com/in/chet-off1228](https://linkedin.com/in/chet-off1228)
+# Chetvergov Andrey ✨  
+## ML Engineer | Data Scientist 💻  
+📧 **Email:** cetvergovandrej9@gmail.com  
+🚀 **Telegram:** [t.me/Chet1228](https://t.me/Chet1228)  
+🐙 **GitHub:** [github.com/Chetoff1228](https://github.com/Chetoff1228)  
 
-I'm Andrey, a skilled Data Scientist/ML Engineer based in Moscow. My expertise lies in NLP, CV, and ML, focusing on text generation, classification, image recognition, and object detection. I am proficient in SQL data analytics and Docker integration, bringing a blend of technical expertise and business acumen. With a proven track record in competitions and hackathons, I excel in delivering exceptional results.
+I’m Andrey, a passionate **Machine Learning Engineer** and **Data Scientist** based in Moscow, with expertise in **NLP**, **Computer Vision (CV)**, and **Machine Learning (ML)**. I specialize in building AI-driven solutions, including text generation, classification, image recognition, and object detection. With a strong foundation in **SQL analytics**, **Docker**, and **ML deployment**, I bring both technical expertise and a results-driven approach to every project.  
 
-## Skills
-✨ **Deep Learning:** PyTorch, NLP, Language Models (e.g., GPT), CV, Key Point Detection, Image Matching Models, Face Recognition Models, YOLO8.
+I have a proven track record of success in **hackathons**, **competitions**, and **real-world applications**, and I’m currently advancing my skills through the **ITMO Talent Hub AI program**.  
 
-💡 **Machine Learning:** Regression, Classification, Catboost, PCA, Clustering Algorithms, Feature Engineering, Model Evaluation and Validation.
+---
 
-👨‍💻 **Programming Languages:** Python, R, SQL.
+## 🛠️ **Skills**  
+- **Deep Learning:** PyTorch, NLP, LLM Agents (Mistral, Llama, GPT), RAG, Vision-Language Models (VLMs), Key Point Detection, Image Matching, Face Recognition, YOLOv8.  
+- **Machine Learning:** Regression, Classification, CatBoost, PCA, Clustering, Feature Engineering, Model Evaluation.  
+- **Programming:** Python, R, SQL, Lua.  
+- **Tools & Technologies:** Git, Docker, Linux, ML Space.  
 
-🛠️ **Tools and Technologies:** Git, Docker, Linux.
+---
 
-## Hackathon Success
-- **Computer Vision and AI Hackathon for UAVs**
-  Developed a computer vision system for unmanned aerial vehicles (UAVs), securing 3rd place in the All-Russian hackathon.
+## 💼 **Professional Experience**  
+### **Eurochem**  
+**ML Engineer** (June 2024 - Present)  
+- Developing AI solutions for industrial applications.  
+- Optimizing workflows using ML and data-driven insights.  
 
-- **League of Digital Transformation 2023 - Computer Vision Track**
-  Achieved 7th place in a national competition focused on computer vision as part of the digital transformation initiative. Developed a comprehensive service with computer vision, UX, and frontend components.
+### **Research Center for Artificial Intelligence at RANEPA**  
+**ML Engineer** (December 2023 - Present)  
+- Building services powered by LLMs (e.g., correspondence routing).  
+- Implementing OCR for document workflow automation.  
+- Designing ML/DL training simulators for students.  
 
-- **DigitalHack 2023 - AI Application for Supporting Farmers**
-  Earned 5th place in the DigitalHack 2023 competition. Developed an advanced AI application for assisting local farmers, incorporating backend and frontend development, PDF parsing, and a dialogue model.
+### **Sber Robotics Laboratory**  
+**ML Engineer** (September 2023 - Present)  
+- Created specialized LLM agents for learning in virtual Lua environments.  
+- Fine-tuned language models and led prompt engineering initiatives.  
 
-- **NLP Hackathon by HSE**
-  Collaborated on a project that achieved 1st place in an NLP hackathon organized by HSE. The project focused on analyzing banking reviews and utilized NLP techniques to extract valuable insights.
+---
 
-## Education
-- **Bachelor’s Degree in Digital Economics (2020-2024)**
-  Russian Academy of National Economy and Public Administration under the President of the Russian Federation. GPA: 4.6. Specialized in Theoretical Probability and Mathematical Statistics, Neural Networks, Algorithmization and Programming, Game Theory, Linear Algebra, Mathematical Analysis.
+## 🏆 **Hackathons & Competitions**  
+- **1st Place – Digital Breakthrough (Цифровой прорыв) Vladivostok (DVO) 2024**  
+- **2nd Place – CheckAI Hack 2023**  
+- **2nd Place – Digital Breakthrough (Цифровой прорыв) Moscow (CFO) 2024**  
+- **2nd Place – ITMO Product Hack 2024**  
+- **3rd Place – Digital Breakthrough (Цифровой прорыв) Sochi (UFO) 2023**  
+- **3rd Place – Rosatom Hack 2024**  
+- **3rd Place – Digital Breakthrough (Цифровой прорыв) International 2024**  
+- **3rd Place – Computer Vision Hackathon for UAVs 2022**  
+- **4th Place – Digital Transformation League 2023**  
 
-- **Tinkoff Education Programs (2021-2022)**
-  Completed the Tinkoff Education Program with specializations in Machine Learning and Deep Learning.
+---
+
+## 🚀 **Accelerators & Grants**  
+- **Sber Academic Grant** (July 2023 - Present): Researching and optimizing NEONKA ensemble models for GigaChat.  
+- **Academy of Innovators 2024 "Lomonosov Cluster"**: Top 100 and grant for "Orion" – a service for creating personal AI models.  
+- **TOP-1000 University Startups 2023**: Mentored projects like "Urban Insight" (ML for urban planning) and "EcoTracker" (CV for waste detection).  
+- **Resident of Skolkovo Pre-Accelerator**: Actively contributing to AI innovation and entrepreneurship.  
+
+---
+
+## 🎓 **Education**  
+- **Bachelor’s in Digital Economics** (2020-2024)  
+  Russian Academy of National Economy and Public Administration (RANEPA).  
+  GPA: 4.6. Specialized in Neural Networks, Probability, Statistics, Linear Algebra, and Game Theory.  
+
+- **Tinkoff Education Program** (2021-2022)  
+  Specialization in Machine Learning and Deep Learning.  
+
+- **ITMO Talent Hub AI Program** (2024 - Present)  
+  Advancing expertise in AI and ML through cutting-edge coursework and projects.  
+
+---
+
+## 🔥 **Projects**  
+- **SLAVA Benchmark & Framework**: Creator of a benchmark and framework for evaluating AI models.  
+  - **huggingface:** [huggingface.co/SLAVA](https://huggingface.co/spaces/RANEPA-ai/SLAVA)  
+- **ikanam-ai**: Founder of **ikanam-ai**, a platform for innovative AI solutions and research.  
+  - **GitHub:** [github.com/ikanam-ai](https://github.com/ikanam-ai)  
